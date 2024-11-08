@@ -1,0 +1,8 @@
+#alt {
+	background-repeat: no-repeat;
+	background: black;
+	border: 1px solid black;
+	width: 400px;
+	height: 100px;
+    background-position: right;
+}
